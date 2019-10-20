@@ -1,8 +1,8 @@
 # Node.js Emoji API
 
 ### Requirements
-- Npm v6.12.0
-- Node v10.16.3
+- Npm >= v6.12.0
+- Node >= v10.16.3
 - Redis database
 
 ### Steps to install and run
