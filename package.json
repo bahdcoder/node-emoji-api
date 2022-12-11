@@ -11,7 +11,7 @@
   "author": "Frantz Kati",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-emoji": "^1.10.0",
     "promise-redis": "0.0.5"
   },
